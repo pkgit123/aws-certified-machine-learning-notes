@@ -1,6 +1,9 @@
 # aws-cml-acg
 Study notes for AWS Certified Machine Learning Specialty, esp. A Cloud Guru (ACG) course.
 
+### Link to ACG Course GitHub Repo:
+* https://github.com/ACloudGuru-Resources/Course_AWS_Certified_Machine_Learning
+
 ### Include:
 * Code resources from lectures
 * Infrastructure configurations, e.g. YAML 
