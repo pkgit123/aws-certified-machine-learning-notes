@@ -1,5 +1,6 @@
 # Chapter 3 Streaming Data Collection
 
+There is a Stream Data Collection lab at the end of the chapter.  
 
 ### Steps: 
 1. AWS Console -> Kinesis -> Create Data Stream
