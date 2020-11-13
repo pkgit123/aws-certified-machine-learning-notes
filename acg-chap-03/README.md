@@ -1,4 +1,4 @@
-# Chapter 3 Streaming Data Collection
+# Chapter 3 Streaming Data Collection Lab
 
 There is a Stream Data Collection lab at the end of the chapter.  
 
