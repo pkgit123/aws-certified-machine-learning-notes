@@ -2,7 +2,7 @@
 
 There is a Stream Data Collection lab at the end of the chapter.  
 
-### Steps: 
+### Steps to work through the lab: 
 1. AWS Console -> Kinesis -> Create Data Stream
     * Use region US-east-1
     * Give the stream a name
