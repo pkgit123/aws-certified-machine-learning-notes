@@ -62,6 +62,13 @@ There is a Stream Data Collection lab at the end of the chapter.
 1. AWS Console -> S3 -> bucket
     * see user data refresh
 
+### Delete all resources when done:
+1. Delete in reverse-order
+1. Delete Kinesis Firehose Delivery Stream
+1. Kinesis Analytics Application -> View All -> Delete
+1. Kinesis Data Stream -> View All -> Delete
+1. CloudFormation -> Delete stack
+1. Keep the S3 bucket, because we will use the data in a later lab
 
 ### Files:
 1. kinesis-put-record.py - Python application to retrieve user data using API, and put records into a Kinesis Data Stream.
