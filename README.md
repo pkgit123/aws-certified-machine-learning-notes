@@ -12,3 +12,6 @@ Study notes for AWS Certified Machine Learning Specialty, esp. A Cloud Guru (ACG
 ### Chapter 3: Streaming Data Collection
 * Python application to generate stream data
 * CloudFormation template to create data producer
+
+### Chapter 4: Data Preparation
+* https://acloudguru-content-attachment-production.s3-accelerate.amazonaws.com/1598022027662-C04_L11_Data_Preparation_Lab.pdf
