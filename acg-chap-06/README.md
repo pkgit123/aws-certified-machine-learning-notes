@@ -9,3 +9,7 @@
 ### Files from modeling lab: 
 * dataset
 * Jupyter notbook file
+
+### References:
+* Amazon SageMaker documentation on k-means algorithm.  https://sagemaker.readthedocs.io/en/stable/algorithms/kmeans.html
+* Amazon SageMaker documentation on k-means hyperparameters.  https://docs.aws.amazon.com/sagemaker/latest/dg/k-means-api-config.html
